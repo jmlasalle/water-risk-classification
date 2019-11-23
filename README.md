@@ -5,10 +5,10 @@ An attempt to classify global water risk typologies. Final project for [CPLN 691
 
 # Setup
 Create the `water-risk-classification` virtual environment with `conda env create -f environment.yml`
-Update the environment with `conda env update --name water-risk-classification --file environment.yml --prune`
+Update the environment with `conda env update --name wrc --file environment.yml --prune`
 
 # Data Sources
 1. [WRI Aqueduct](https://www.wri.org/aqueduct/data)
 2. [Global Human Settlements Layer](https://ghsl.jrc.ec.europa.eu/data.php)
-3. [SEDAC Poverty Data TBD](https://sedac.ciesin.columbia.edu/data/sets/browse?facets=theme:poverty)
+3. [SEDAC Infant Mortality](https://sedac.ciesin.columbia.edu/data/set/povmap-global-subnational-infant-mortality-rates-v2/data-download)
 4. [Version 4 DMSP-OLS Nighttime Lights Time Series](https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html)

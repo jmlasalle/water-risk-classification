@@ -1,4 +1,4 @@
-name: water-risk-classification
+name: wrc
 channels:
   - defaults
   - conda-forge
