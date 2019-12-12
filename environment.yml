@@ -49,6 +49,7 @@ dependencies:
   - osmnx
   - networkx
   - scikit-learn
+  - panel
   - pip:
       - us
       - textblob
