@@ -59,3 +59,4 @@ dependencies:
       - rio-toa
       - rioxarray
       - missingno
+      - jupyter-panel-proxy
