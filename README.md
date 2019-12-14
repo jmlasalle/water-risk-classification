@@ -34,6 +34,10 @@ We have taken an additional step before creating the app: the polygons on the Ge
 
 # Conclusions and final remarks
 
+The result of our cluster analysis was less revealing than what we would have wanted it to be. There are some visible patterns though. In South America, we can see different clusters for the Amazonia region, for the arid region of Northeast Brazil, and a separate cluster for Patagonia. The NAs we had to exclude from our dataset were mainly in the North of the African continent. Most of Africa was classified as noise. That also happened in India and Scandinavia.
+
+By observing the clusters 0, 1, and 2 (the 3 clusters in Africa), we can see that the analysis did work, as the bar chart shows us that aside ‘Untreated Connected Wastewater’, all other variables have similar values. If we had more time though, we would dedicate it to better understand the relationship between these variables to make a more sensitive feature selection.
+
 # User Notes
 
 An attempt to classify global water risk typologies. Final project for [CPLN 691 Geospatial Data Science in Python](https://github.com/MUSA-620-fall-2019).
